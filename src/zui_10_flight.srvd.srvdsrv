@@ -1,0 +1,5 @@
+@EndUserText.label: '-'
+define service ZUI_10_Flight {
+  expose ZC_10_Flight;
+  expose ZC_10_Booking;
+}
